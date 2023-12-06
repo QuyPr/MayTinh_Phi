@@ -8,7 +8,7 @@ using System.Runtime.InteropServices.ComTypes;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//vu quoc quy
 namespace MayTinh_Phi
 {
     public partial class Form1 : Form
